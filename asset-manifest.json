@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mobx/static/css/main.26266bd7.css",
+    "main.js": "/mobx/static/js/main.5495ad80.js",
+    "index.html": "/mobx/index.html",
+    "main.26266bd7.css.map": "/mobx/static/css/main.26266bd7.css.map",
+    "main.5495ad80.js.map": "/mobx/static/js/main.5495ad80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26266bd7.css",
+    "static/js/main.5495ad80.js"
+  ]
+}
